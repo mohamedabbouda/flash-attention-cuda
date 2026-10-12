@@ -1,0 +1,21 @@
+# Build directories
+build/
+bin/
+
+# Compiled files
+*.o
+*.out
+
+# CUDA / executable outputs
+vector_add
+device_info
+naive_matmul
+tiled_matmul
+matmul_benchmark
+vector_add_benchmark
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
