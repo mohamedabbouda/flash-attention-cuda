@@ -9,7 +9,7 @@ attention, and the optimization ideas behind FlashAttention.
 - [x] CPU matrix multiplication
 - [x] Naive CUDA matrix multiplication
 - [x] Shared-memory tiled matrix multiplication
-- [ ] CPU scaled dot-product attention
+- [x] CPU scaled dot-product attention
 - [ ] Naive CUDA attention
 - [ ] GPU softmax
 - [ ] Online softmax
